@@ -57,6 +57,3 @@ npm test
 
 You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
 =======
-# rabbitmq-frontend
-[git](https://blog.csdn.net/caip12999203000/article/details/126450842)
->>>>>>> 09d2f32df469e90cdd9d48f6d47f40f3f01350b9
